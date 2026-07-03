@@ -1,0 +1,11 @@
+{
+  "name": "exec-ea-marketplace",
+  "owner": { "name": "louislee-88" },
+  "plugins": [
+    {
+      "name": "exec-ea",
+      "source": "./exec-ea",
+      "description": "AI Executive Assistant skills over a local markdown memory."
+    }
+  ]
+}
