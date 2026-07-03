@@ -7,5 +7,5 @@ disable-model-invocation: true
 
 Set a nudge from: **"$ARGUMENTS"** (what to watch for + when/condition).
 
-- Record it under **"Active nudges"** in `preferences.md` so the brief and follow-up surface it when the condition is met.
+- Record it in **`nudges.md`** (create the file if it doesn't exist) so the brief and follow-up surface it when the condition/time is met.
 - Confirm what you set in one line (what + trigger).
